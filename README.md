@@ -39,6 +39,10 @@ This portfolio highlights my skills, projects, certifications, dashboards, and a
 - GLightbox for Image Popups
 - Hosted via **GitHub Pages**
 
+## 🚀 Live Preview
+
+🔗 [Visit Portfolio Website](https://sahil-s2.github.io)
+
 ## 📂 Folder Structure
 
 ```bash
@@ -62,17 +66,6 @@ This portfolio highlights my skills, projects, certifications, dashboards, and a
 * 🌐 [LinkedIn](https://www.linkedin.com/in/sahil-jena-067b1b301)
 * 🧠 [GitHub](https://github.com/Sahil-S2)
 
-## 📌 How to Use This Repo
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/Sahil-S2/sahil-s2.github.io
-
-# 2. Open the folder
-cd sahil-s2.github.io
-
-# 3. Launch index.html in browser or deploy to GitHub Pages
-```
 
 ## 🌟 Credits
 
@@ -82,5 +75,3 @@ This portfolio was customized using modern web technologies and deployed using G
 
 > “Data is a precious thing and will last longer than the systems themselves.”
 > — *Tim Berners-Lee*
-
-```
