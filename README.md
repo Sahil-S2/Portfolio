@@ -41,7 +41,7 @@ This portfolio highlights my skills, projects, certifications, dashboards, and a
 
 ## 🚀 Live Preview
 
-🔗 [Visit Portfolio Website](https://sahil-s2.github.io)
+🔗 [Visit Portfolio Website](https://sahil-s2.github.io/Portfolio/)
 
 ## 📂 Folder Structure
 
